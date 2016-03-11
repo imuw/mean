@@ -1,0 +1,28 @@
+{
+  "name": "nodeMean",
+  "version": "1.0.0",
+  "description": "Trying to make a ws node",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "grunt": "^0.4.5",
+    "mean-cli": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/302tek/authenticadence.git"
+  },
+  "keywords": [
+    "Saas"
+  ],
+  "author": "Wil Linebaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/302tek/authenticadence/issues"
+  },
+  "homepage": "https://github.com/302tek/authenticadence"
+}

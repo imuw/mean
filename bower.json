@@ -1,0 +1,21 @@
+{
+  "name": "nodeMean",
+  "description": "Trying to make a ws node",
+  "main": "server.js",
+  "authors": [
+    "Wil Linebaugh"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Saas"
+  ],
+  "moduleType": [],
+  "homepage": "regalferret.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
